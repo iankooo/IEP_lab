@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/Item12_project.dir/item12.cpp.o -o Item12_project 

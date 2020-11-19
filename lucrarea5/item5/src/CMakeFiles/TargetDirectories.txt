@@ -1,3 +1,0 @@
-/home/ianko/Desktop/item5/src/CMakeFiles/rebuild_cache.dir
-/home/ianko/Desktop/item5/src/CMakeFiles/Item5_project.dir
-/home/ianko/Desktop/item5/src/CMakeFiles/edit_cache.dir
