@@ -12,7 +12,7 @@
 - Item 11: Handle assignment to self in operator=.
 - Item 12: Copy all parts of an object.
 
-#Lucrarea 6
+# Lucrarea 6
 
 ## Sa se scrie un proiect C++ care sa acopere principalele probleme descrise in urmatoarele item-uri, din cartea Effective ++:
 
