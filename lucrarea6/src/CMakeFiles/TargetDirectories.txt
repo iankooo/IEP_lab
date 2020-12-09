@@ -1,0 +1,3 @@
+/home/ianko/Desktop/IEP/IEP_lab/lucrarea6/src/CMakeFiles/rebuild_cache.dir
+/home/ianko/Desktop/IEP/IEP_lab/lucrarea6/src/CMakeFiles/lucrarea6.dir
+/home/ianko/Desktop/IEP/IEP_lab/lucrarea6/src/CMakeFiles/edit_cache.dir
